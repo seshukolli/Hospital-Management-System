@@ -1,1 +1,8 @@
-
+Hospital Management System: [Java, JDBC, JVM, MySQL]
+ ● Patient and Doctor Management: Built features to add, view, and manage patient and doctor records with full CRUD
+operations. 
+● Appointment Scheduling: Implemented an appointment booking system with real-time validation of doctor availability. 
+● Database Interaction: Leveraged JDBC for seamless interaction with a MySQL database, ensuring efficient data retrieval
+and storage. 
+● User Interface: Developed a command-line interface for user interactions, simplifying hospital administration tasks. 
+● Error Handling: Incorporated robust error handling to manage SQL exceptions and ensure system reliability.
